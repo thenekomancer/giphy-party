@@ -1,0 +1,16 @@
+h1 {
+	align-content: center;
+}
+
+form {
+	align-content: center;
+}
+
+#search_button {
+	background-color: black;
+	color: white;
+}
+
+#remove_button {
+	background-color: red;
+}
